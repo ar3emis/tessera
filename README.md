@@ -10,7 +10,7 @@ Tweak anything by hand, then send it straight into Unreal Engine with a live lin
 
 ## Highlights
 
-- 165 procedural nodes: modelling, attributes, curves, volumes/SDF, terrain with erosion, buildings and fairy architecture,
+- 160+ procedural nodes: modelling, attributes, curves, volumes/SDF, terrain with erosion, buildings and fairy architecture,
   sculpting, fracture + rigid bodies, cloth, particles, pyro, FLIP water, ocean.
 - AI panel with your choice of AI: an offline local model (Ollama), Claude (your Claude Code login) or GPT (your ChatGPT login
   through the Codex app). An MCP server lets Claude Code drive Tessera from any project.
