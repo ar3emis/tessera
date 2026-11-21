@@ -1,6 +1,6 @@
 # Tessera
 
-**AI-first procedural 3D for Windows.** Describe what you want; an AI builds a Houdini-style node graph live
+**AI-first procedural 3D for Windows.** Describe what you want; an AI builds a node graph live
 in front of you: buildings, fairy-tale villages, eroded terrain, sculpted props, destruction, smoke, fire and water.
 Tweak anything by hand, then send it straight into Unreal Engine with a live link.
 
@@ -15,7 +15,7 @@ Tweak anything by hand, then send it straight into Unreal Engine with a live lin
 - AI panel with your choice of AI: an offline local model (Ollama), Claude (your Claude Code login) or GPT (your ChatGPT login
   through the Codex app). An MCP server lets Claude Code drive Tessera from any project.
 - Projects as tabs, graphs as tabs, graphs that combine other graphs; undo/redo; drag-to-scrub parameters;
-  Unreal-style fly navigation (hold right mouse + WASD).
+  fly navigation (hold right mouse + WASD).
 - Unreal Engine live link: send a node to the open editor and keep it updated as you edit.
 
 ## Install
