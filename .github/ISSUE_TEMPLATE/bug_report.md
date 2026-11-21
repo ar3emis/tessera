@@ -4,7 +4,7 @@ about: Something in Tessera does not work as expected
 labels: bug
 ---
 
-**Tessera version** (Help ? panel or the installer name):
+**Tessera version** (e.g. 0.7.0; shown at http://127.0.0.1:7419/api/health while Tessera is open):
 
 **What happened**
 
